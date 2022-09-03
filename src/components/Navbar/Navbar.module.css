@@ -2,3 +2,7 @@
     background-color: aqua;
     padding: 10px;
 }
+.navbarLinks{
+    display: flex;
+    justify-content: space-evenly;
+}
